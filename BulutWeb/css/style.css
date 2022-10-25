@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+.linkler{
+    font-size: large;
+    float: right;
+    margin: -40px 30px 0px 0px;
+}
+
+.baslik{
+    margin: 30px 0px 0px 50px;
+}
+
+.photo-1 img{
+    margin: 0px 0px 0px -8px;
+    width: 101%;
+}
+
+.box{
+    
+    width: 80px;
+    padding: 120px;
+    margin: 50px 0px 0px 135px;
+    display: inline-block;
+}
+
+.box img{
+    width: 300px;
+    height: 150px;
+    margin-top: -100px;
+    margin-left: -110px;
+}
+
+p{
+
+    display: inline-block;
+    float: right;
+    padding: 0px 50px;
+}
